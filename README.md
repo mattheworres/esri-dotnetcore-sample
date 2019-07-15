@@ -6,7 +6,7 @@ Sample dotnet app for ESRI purposes of debugging proxy code running on a dotnetc
 
 - [.NET Core 2.2 SDK installed locally](https://dotnet.microsoft.com/download/dotnet-core/2.2)
 
-###Running the app
+### Running the app
 
 1. Clone repository
 2. Using terminal/command prompt, change into base directory of cloned repository
