@@ -14,4 +14,4 @@ Sample dotnet app for ESRI purposes of debugging proxy code running on a dotnetc
 4. Run `dotnet run` which will start a new API at `localhost:5050`
 5. For purposes of this repo, create a proxy rule in your ArcGIS SDK of choice with the `proxyUrl` of `http://localhost:5050/proxy/proxy.ashx`
 
-##FIN
+## FIN
