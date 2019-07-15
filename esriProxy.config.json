@@ -1,0 +1,20 @@
+{
+	"allowedReferrers": ["*"],
+	"useAppPoolIdentity": true,
+	"tokenCacheMinutes": 29,
+	"serverUrls": [
+		{
+			"url": "https://services9.arcgis.com/a-valid/url/to-a-non-publicly-shared-feature-layer/0",
+			"matchAll": false,
+			"clientId": "some-client-id",
+			"clientSecret": "some-client-secret",
+			"oauth2Endpoint": "https://www.arcgis.com/sharing/rest/oauth2/token/"
+		},
+		{
+			"url": "https://www.arcgis.com",
+			"username": "some-valid-user",
+			"password": "some-valid-user-password",
+			"matchAll": true
+		}
+	]
+}
